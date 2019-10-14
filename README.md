@@ -73,6 +73,7 @@
   - [aldeed:autoform](https://github.com/aldeed/meteor-autoform) - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation. ![Code quality: Golden](https://img.shields.io/badge/code%20quality-golden-yellow.svg)
   - [dispatch:scrollview](https://github.com/DispatchMe/meteor-scrollview) - A high performance infinite scrollview for meteor. ![Not maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
   - [znewsham:dynamic-table](https://bitbucket.org/znewsham/meteor-dynamic-tables) - Flexible datatables for large collections in Meteor
+  - [aldeed:tabular](https://github.com/d3k4y/meteor-tabular) - An active fork of aldeed:tabular.
 
 ### Routing
 - [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) - Carefully extended flow-router package. ![Code quality: Golden](https://img.shields.io/badge/code%20quality-golden-yellow.svg) 
