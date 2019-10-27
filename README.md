@@ -84,6 +84,7 @@
 - [themeteorites:blaze-magic-events](https://github.com/themeteorites/blaze-magic-events) - A new way of binding event handlers to html elements for Meteor's Blaze.
 - [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) - Replace already defined templates, inherit helpers and events from other templates.
 - [dburles:google-maps](https://github.com/dburles/meteor-google-maps) - Meteor package for the Google Maps Javascript API v3. ![Not maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
+- [raix:handlebar-helpers](https://github.com/raix/Meteor-handlebar-helpers) - Handy handlers for Meteor handlebars. ![Not maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 
 ### Forms
 
